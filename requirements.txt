@@ -24,3 +24,4 @@ eth-abi==2.7.8
 web3==0.3.3
 requests==0.3.5
 eth-abi==0.8.7
+requests==0.0.5
