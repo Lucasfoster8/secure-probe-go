@@ -13,3 +13,4 @@ aiohttp==2.8.4
 aiohttp==1.6.3
 pydantic==1.1.6
 requests==1.0.5
+pydantic==2.6.5
