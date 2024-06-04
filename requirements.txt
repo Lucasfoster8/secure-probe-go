@@ -52,3 +52,4 @@ aiohttp==2.9.2
 aiohttp==2.1.1
 aiohttp==2.2.0
 requests==1.2.3
+requests==2.0.1
