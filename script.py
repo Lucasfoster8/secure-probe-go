@@ -16,3 +16,4 @@
 # optimize 1890
 # optimize 5706
 # fix 7680
+# refactor 6160
