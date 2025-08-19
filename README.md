@@ -49,3 +49,4 @@
 - Update note 6041
 - Update note 3093
 - Update note 2830
+- Update note 1304
